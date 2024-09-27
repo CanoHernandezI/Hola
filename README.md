@@ -9,7 +9,7 @@ El personaje funcionara a traves de un ESP32, el cual le dara las intrucciones a
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
 |--|--|--|--|
-|ESP32|<img src="https://github.com/imagenes/S.png" width="100"/>|1|120.00|
+|ESP32|<img src="https://github.com/CanoHernandezI/imagenes/S" width="100"/>|1|120.00|
 |HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b&quot" />|1|30.00|
 |...||||
 

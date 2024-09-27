@@ -30,4 +30,13 @@ Simulacion MuñecoNavideño: https://wokwi.com/projects/409916129240812545
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
 
 ## Capturas de Evaluaciones de Curso de C
-Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+|Modulo|Imagen Resultado|
+|--|--|
+|Modulo 1|<img width="500" height="250" src="imagenes/exam1.png" />|
+|Modulo 2|<img width="500" height="250" src="imagenes/exam2.png" />|
+|Modulo 3|<img width="500" height="250" src="imagenes/exam3.png" />|
+|Modulo 4|<img width="500" height="250" src="imagenes/exam4.png" />|
+|Modulo 5|<img width="500" height="250" src="imagenes/exam5.png" />|
+|Modulo Final|<img width="500" height="250" src="imagenes/examF.png" />|
+|...||
+

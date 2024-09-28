@@ -9,15 +9,29 @@ El personaje funcionara a traves de un ESP32, el cual le dara las intrucciones a
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
 |--|--|--|--|
-|ESP32|<img src="https://github.com/CanoHernandezI/imagenes/S" width="100"/>|1|120.00|
-|HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b&quot" />|1|30.00|
-|...||||
+|ESP32|<img src="imagenes/esp32.jpg" width="100"/>|1|120.00|
+|Cable de puente|<img src="imagenes/cables.jpg" width="100"/>|1|120.00|
+|Led|<img src="imagenes/led.jpg" width="100"/>|1|120.00|
+|Resistencia|<img src="imagenes/resistencia.jpg" width="100"/>|1|120.00|
+|Ultrasonico|<img src="imagenes/ultrasonicoo.webp" width="100"/>|1|120.00|
+|Servo Motor|<img src="imagenes/servo.webp" width="100"/>|1|120.00|
+|Buzzer|<img src="imagenes/buzzer.jpeg" width="100"/>|1|120.00|
+|Muñeco Base|<img src="imagenes/Muñecobebe.jpg" width="100"/>|1|120.00|
+|Telas|<img src="imagenes/tela.jpg" width="100"/>|1|120.00|
+|Hilo y Aguja|<img src="imagenes/hilo y aguja.jpg" width="100"/>|1|120.00|
+|Pintura en lata|<img src="imagenes/pintura.jpg" width="100"/>|1|120.00|
+|Plumon|<img src="imagenes/plumon.jpg" width="100"/>|1|120.00|
+|Plumon|<img src="imagenes/minitornillos.jpg" width="100"/>|1|120.00|
 
 ## Software a utilizar
 |Software|Versión|
 |--|--|
 |Thonny|4.1.6|
-|...||
+|Arduino IDE|2.3.2|
+|Fritzing|...|
+|Node-RED|...|
+|TinkerCAD|...|
+
 
 ## Dibujo del personaje
 Imagen hecha a mano o con software

@@ -34,7 +34,9 @@ El personaje funcionara a traves de un ESP32, el cual le dara las intrucciones a
 
 
 ## Dibujo del personaje
-Imagen hecha a mano o con software
+|--|--|
+|Modulo 1|<img width="500" height="250" src="imagenes/Boseto.jpg" />|
+|...||
 
 ## Enlaces de la simulación de wokwi
 Casa Inteligente: https://wokwi.com/projects/409654806594213889

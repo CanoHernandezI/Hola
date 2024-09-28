@@ -10,18 +10,18 @@ El personaje funcionara a traves de un ESP32, el cual le dara las intrucciones a
 |Material|Imagen|Cantidad|Costo|
 |--|--|--|--|
 |ESP32|<img src="imagenes/esp32.jpg" width="100"/>|1|120.00|
-|Cable de puente|<img src="imagenes/cables.jpg" width="100"/>|1|120.00|
-|Led|<img src="imagenes/led.jpg" width="100"/>|1|120.00|
-|Resistencia|<img src="imagenes/resistencia.jpg" width="100"/>|1|120.00|
-|Ultrasonico|<img src="imagenes/ultrasonicoo.webp" width="100"/>|1|120.00|
-|Servo Motor|<img src="imagenes/servo.webp" width="100"/>|1|120.00|
-|Buzzer|<img src="imagenes/buzzer.jpeg" width="100"/>|1|120.00|
-|Muñeco Base|<img src="imagenes/Muñecobebe.jpg" width="100"/>|1|120.00|
-|Telas|<img src="imagenes/tela.jpg" width="100"/>|1|120.00|
-|Hilo y Aguja|<img src="imagenes/hilo y aguja.jpg" width="100"/>|1|120.00|
-|Pintura en lata|<img src="imagenes/pintura.jpg" width="100"/>|1|120.00|
-|Plumon|<img src="imagenes/plumon.jpg" width="100"/>|1|120.00|
-|Plumon|<img src="imagenes/minitornillos.jpg" width="100"/>|1|120.00|
+|Cable de puente|<img src="imagenes/cables.jpg" width="100"/>|1 pack|35.00|
+|Led|<img src="imagenes/led.jpg" width="100"/>|4|8.00|
+|Resistencia|<img src="imagenes/resistencia.jpg" width="100"/>|4|8.00|
+|Ultrasonico|<img src="imagenes/ultrasonicoo.webp" width="100"/>|1|78.00|
+|Servo Motor|<img src="imagenes/servo.webp" width="100"/>|5|132.00|
+|Buzzer|<img src="imagenes/buzzer.jpeg" width="100"/>|1|50.00|
+|Muñeco Base|<img src="imagenes/Muñecobebe.jpg" width="100"/>|1|130.00|
+|Telas|<img src="imagenes/tela.jpg" width="100"/>|2 mtrs|146.00|
+|Carrete Hilo y Aguja|<img src="imagenes/hilo y aguja.jpg" width="100"/>|1|32.00|
+|Pintura en lata|<img src="imagenes/pintura.jpg" width="100"/>|1|32.00|
+|Plumon|<img src="imagenes/plumon.jpg" width="100"/>|1|22.00|
+|Minitornillos|<img src="imagenes/minitornillos.jpg" width="100"/>|15|20.00|
 
 ## Software a utilizar
 |Software|Versión|
@@ -34,9 +34,7 @@ El personaje funcionara a traves de un ESP32, el cual le dara las intrucciones a
 
 
 ## Dibujo del personaje
-|--|--|
-|Modulo 1|<img width="500" height="250" src="imagenes/Boseto.jpg" />|
-|...||
+<img width="500" height="280" src="imagenes/Boseto.jpg" />
 
 ## Enlaces de la simulación de wokwi
 Casa Inteligente: https://wokwi.com/projects/409654806594213889

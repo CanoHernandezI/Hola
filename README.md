@@ -52,5 +52,4 @@ Drive Video: https://drive.google.com/drive/folders/15Lg08ZRPHb3ntOmPAtM2NnKsxom
 |Modulo 4|<img width="500" height="250" src="imagenes/exam4.png" />|
 |Modulo 5|<img width="500" height="250" src="imagenes/exam5.png" />|
 |Modulo Final|<img width="500" height="250" src="imagenes/examF.png" />|
-|...||
 
